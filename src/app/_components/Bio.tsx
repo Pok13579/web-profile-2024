@@ -7,15 +7,7 @@ const Bio = (props: Props) => {
   return (
     <Card title="Bio">
       <div>
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum.
+      Taned Wongpoo is student enrolled at Walailak University in 2022, pursuing a degree in Computer Engineering. Alongside your studies, you've gained valuable work experience by assisting a professor with various projects. This experience has likely provided you with practical skills and insights into your field, enhancing your academic journey and preparing you for future endeavors in the realm of computer engineering.
       </div>
     </Card>
   );
