@@ -4,9 +4,9 @@ import Link from "next/link";
 export default function blog() {
   return (
     <main className="container bg-cy1 min-h-screen max-w-none p-24">
-      <div className="container mx-auto px-40 ">
+      <div className="container mx-auto px-40  ">
         <div className="mb-5">
-          <Link href="/" className="text-sm flex gap-2 items-center text-cy-3">
+          <Link href="/" className="text-sm flex gap-2 items-center text-cy3">
             <MoveLeft size={14} /> Profile
           </Link>
         </div>
@@ -20,11 +20,10 @@ export default function blog() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
                 <h2 className="text-xl font-bo  ld text-cy1 mb-4">
-                  As “Developers” indeed we are the student of the world
+                Robot control
                 </h2>
                 <p className="text-cy1 mb-10">
-                  ในฐานะนักพัฒนาซอฟต์แวร์
-                  แท้ที่จริงแล้วเราก็คือนักเรียนของโลกใบนี้เสมอ
+                Become a robot controller at the Opening the World of Engineering Exhibition 2023 the architecture building There were 3 robots at the event: 1.spider 2.tank 3.dog robot, who was responsible for setting up the tank section.
                 </p>
                 <Link
                   href="/blog/as-developers-indeed-we-are-the-student-of-the-world"

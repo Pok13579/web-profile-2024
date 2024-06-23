@@ -18,6 +18,7 @@ const config: Config = {
         'cy2': '#5da7ae',
         'cy3': '#6e4c41',
         'cy4': '#94784c',
+        'cy5':'#E7D4B5',
       },
       
     },
