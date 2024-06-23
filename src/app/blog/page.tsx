@@ -34,7 +34,7 @@ export default function blog() {
               </div>
               <div>
                 <img
-                  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*2tYSCDFH-frWWb1veAV86Q.png"
+                  src="https://taned-wo-wu.w3spaces.com/img_show_case/robot_control.jpg"
                   alt="Blog post image"
                   className="w-full h-48 object-cover mb-4"
                 />
@@ -47,10 +47,10 @@ export default function blog() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
                 <h2 className="text-xl font-bold text-cy1 mb-4">
-                  The Art of Simplicity: Python’s Syntactic Sugar?
+                Stem IoT-based Challenge
                 </h2>
                 <p className="text-cy1 mb-10">
-                  “ถ้าเราพูดถึง Code ที่ดี เราจะให้คำนิยามมันว่าอะไร?”
+                The Smart bin Helper project is a project to promote facilities to help reduce contact with trash cans, which may be a source of germs, using the principle of an ultra sonic sensor that works with a servo and can be connected through a network. internet network To help warn of the amount of waste in the tank, this project was created during the Covid-19 outbreak. The creator therefore thinks that if contact can be reduced as much as possible, it will be a good thing to reduce the outbreak at a small level.
                 </p>
                 <Link
                   href="/blog/the-art-of-simplicity-pythons-syntactic-sugar"
@@ -61,7 +61,7 @@ export default function blog() {
               </div>
               <div>
                 <img
-                  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*G-09XWU9P6bPCgSCu2wQKg.png"
+                  src="https://taned-wo-wu.w3spaces.com/img_show_case/stem.jpeg"
                   alt="Blog post image"
                   className="w-full h-48 object-cover mb-4"
                 />
