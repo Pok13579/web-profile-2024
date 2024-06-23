@@ -26,7 +26,7 @@ export default function blog() {
                 Become a robot controller at the Opening the World of Engineering Exhibition 2023 the architecture building There were 3 robots at the event: 1.spider 2.tank 3.dog robot, who was responsible for setting up the tank section.
                 </p>
                 <Link
-                  href="/blog/as-developers-indeed-we-are-the-student-of-the-world"
+                  href="https://taned-wo-wu.w3spaces.com/showcast.html"
                   className="text-cy1 hover:text-cy3 font-bold"
                 >
                   Read More
@@ -53,7 +53,7 @@ export default function blog() {
                 The Smart bin Helper project is a project to promote facilities to help reduce contact with trash cans, which may be a source of germs, using the principle of an ultra sonic sensor that works with a servo and can be connected through a network. internet network To help warn of the amount of waste in the tank, this project was created during the Covid-19 outbreak. The creator therefore thinks that if contact can be reduced as much as possible, it will be a good thing to reduce the outbreak at a small level.
                 </p>
                 <Link
-                  href="/blog/the-art-of-simplicity-pythons-syntactic-sugar"
+                  href="https://taned-wo-wu.w3spaces.com/showcast.html"
                   className="text-cy1 hover:text-cy4 font-bold"
                 >
                   Read More
