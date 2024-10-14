@@ -15,7 +15,7 @@ const Portfolio = (props: Props) => {
               rel="noopener noreferrer"
               className="text-blue-500"
             >
-              Project IOT BIN
+              Project Basic IOT BIN
             </a>
           </li>
           <li>
@@ -25,9 +25,32 @@ const Portfolio = (props: Props) => {
               rel="noopener noreferrer"
               className="text-blue-500"
             >
-              Project Webdesign
+              Project Basic Webdesign
             </a>
           </li>
+
+          <li>
+            <a
+              href="https://github.com/Pok13579/musicApp"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-500"
+            >
+              Project Mobile App Music Aplication
+            </a>
+          </li>
+
+          <li>
+            <a
+              href="https://github.com/Pok13579/car-selling"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-500"
+            >
+              Project Advance Webdesign 
+            </a>
+          </li>
+          
         </ul>
       </div>
     </Card>
